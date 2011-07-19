@@ -1,0 +1,10 @@
+name: Volumetric
+main: com.loganwm.Volumetric.VolumetricPlugin
+version: 0.1
+load: startup
+
+commands:
+    volume:
+        description: Create/remove a volume.
+        usage: /volume [create:delete] volumename
+ 
